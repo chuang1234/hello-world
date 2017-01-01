@@ -1,2 +1,3 @@
 # hello-world
-first to test
+
+system.out.println("hello world");
